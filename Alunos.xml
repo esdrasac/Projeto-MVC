@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAluno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Aluno>
+    <Codigo>CA77</Codigo>
+    <Nome>aaa</Nome>
+    <Telefone>aaa</Telefone>
+    <Mail>aaa</Mail>
+  </Aluno>
+  <Aluno>
+    <Codigo>1A08</Codigo>
+    <Nome>bbb</Nome>
+    <Telefone>bbb</Telefone>
+    <Mail>bbb</Mail>
+  </Aluno>
+  <Aluno>
+    <Codigo>5675</Codigo>
+    <Nome>ccc</Nome>
+    <Telefone>ccc</Telefone>
+    <Mail>ccc</Mail>
+  </Aluno>
+  <Aluno>
+    <Codigo>E757</Codigo>
+    <Nome>ddd</Nome>
+    <Telefone>ddd</Telefone>
+    <Mail>ddd</Mail>
+  </Aluno>
+</ArrayOfAluno>
